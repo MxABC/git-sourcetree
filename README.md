@@ -108,7 +108,7 @@ git是一种版本控制系统,版本控制系统是一种记录若干文件内�
 # how use it
 本篇主要介绍git客户端sourcetree的使用，git详细知识原理等请参考文章最后的参考资料(熟悉git原理和常用命令可以使用更多git功能)
  
-- [windows环境souretree客户端下载安装](https://github.com/MxABC/git-sourcetree/blob/master/download.md)
+- [souretree客户端下载安装](https://github.com/MxABC/git-sourcetree/blob/master/download.md)
 - [SSH创建-配置-git仓库填写](https://github.com/MxABC/git-sourcetree/blob/master/SSH.md)
 
 
